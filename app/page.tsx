@@ -206,13 +206,12 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50 text-balance`}>
-            I think the task was good to familiarise someone. We can add more scenarios based questions which will help us understand how the candidate thinks based on different scenarios. <br>
+            I think the task was good to familiarise someone. We can add more scenarios based questions which will help us understand how the candidate thinks based on different scenarios
   
-  The candidate can learn tech but one thing which is hard to learn is customer-facing skills, so testing them before hand with some scenarios baked questions will help us understand whether the customer-facing sill is there or not <br>
+  The candidate can learn tech but one thing which is hard to learn is customer-facing skills, so testing them before hand with some scenarios baked questions will help us understand whether the customer-facing sill is there or not
   
   Rest I enjoyed doing this exercise
   
-  <br>
   
           </p>
         </a>
