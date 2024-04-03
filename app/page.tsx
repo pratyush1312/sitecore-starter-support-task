@@ -177,19 +177,40 @@ export default function Home() {
         </a>
 
              <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="/"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            Deploy{" "}
+            Question 9. {" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50 text-balance`}>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+           One of the most common problems Vercel customers face is related to deployment issues, such as difficulties with configuration, domain setup, or integration with other services 
+
+
+Short-term solutions: 
+
+
+Immediate Support -  Provide step-by-step guides and troubleshooting documentation to help users resolve their issues quickly. 
+Customer Service: Offer responsive customer service through live chat or a ticketing system to address urgent concerns. 
+
+
+Long-term solutions:
+Educational Resources: Create comprehensive tutorials and a knowledge base to educate users on best practices and common pitfalls. 
+Community Engagement: Create a community forum where users can share solutions and learn from each other’s experiences. 
+Product Improvement: Continuously improve the platform based on user feedback to reduce the occurrence of common issues.
+
+
+
+
+It’s important to have a robust Support team that helps the client with the paint points they bring to the team.
+
+
+
           </p>
         </a>
 
@@ -200,7 +221,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            Deploy{" "}
+            Question 10. {" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
