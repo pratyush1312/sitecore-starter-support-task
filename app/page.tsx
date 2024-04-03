@@ -3,7 +3,8 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <h2 className={`mb-3 text-2xl font-semibold`}>
+      <div>
+      <h2 className={'mb-3 text-2xl font-semibold'}>
             Question 1<br>{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
@@ -43,7 +44,7 @@ export default function Home() {
   
                 <br></br><br></br>
             </p>
-
+</div>
     </main>
   );
 }
